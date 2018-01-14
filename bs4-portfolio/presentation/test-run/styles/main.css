@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter|Hind');
+
+body {
+    font-family: 'Hind', sans-serif;
+    color: rgba(8, 17, 23, 0.85);
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Architects Daughter', sans-serif;
+}
+
+.app-title {
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 0.8rem;
+}
+
+.app-wrapper {
+    border: 3px solid #1C1C1C;
+    border-radius: 5px;
+    margin: 1.2rem;
+    padding: 1.2rem;
+    background: rgba(251, 251, 251, 0.8)
+}
+
+.app-wrapper img {
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.btn {
+    height: 70%;
+    width: 50%;
+}
+
+.contact-icons i {
+    font-size: 4rem;
+    padding: 0 1.5rem;
+    transition: ease-out 400ms;
+}
+
+.contact-icons i:hover {
+    transition: ease-in 400ms;
+    opacity: 0.7;
+}
+
+.jumbotron {
+    height: 30rem;
+    padding-top: 10rem;
+    background: rgb(235, 235, 235);
+}
+
+.progress {
+    height: 1.7rem;
+}
+
+.progress i {
+    padding: 0 0.8rem;
+}
+
+.progress-wrapper {
+    margin-top: 1.2rem;
+}
+
+.skill-icons {
+    font-weight: bold;
+    padding: 0.8rem 0;
+}
+.skill-icons i {
+    padding: 0 0.8rem;
+    font-size: 2.2rem;
+}
+
+#about {
+    padding: 6rem 0;
+}
+
+#contact {
+    height: 20rem;
+    padding-top: 5rem;
+}
+
+#projects {
+    background: rgb(235, 235, 235);
+    padding: 6.5rem 0;
+}
+
+#projects h2 {
+    margin-bottom: 4rem;
+}
