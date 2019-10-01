@@ -1,4 +1,3 @@
-# Talks
 This repository is a holding cell for the talks I have given to **Techlahoma** User Groups. I will do my best to provide links below for more efficient navigation and break out the talks into respective topics as the repository grows. 
 
 ## Directory
